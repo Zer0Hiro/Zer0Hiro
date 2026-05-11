@@ -33,13 +33,10 @@ A [C implementation](https://github.com/Zer0Hiro/EquationParser) of the **Shunti
 ## `> cat skills.txt`
 
 ```c
-// Systems & Hardware
 const char* strong[] = { "C", "C++", "Python"};
 
-// Software
 const char* learning[] = { "Embedded C", , "ESP32", "Arduino", "PlatformIO", "Flask", "JavaScript", "React", "Vite" };
 
-// Concepts
 const char* concepts[] = { "Compiler Design", "DSL Architecture", "RAG / AI Pipelines", "Signal Processing"};
 ```
 
