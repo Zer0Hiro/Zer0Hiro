@@ -24,9 +24,9 @@ Features: chord notation, multi-instrument PATTERN grids, Mozzi 2.0 synthesis, b
 
 ---
 
-### 🔢 EquationParser
+### 🔢 EquationParser-3D
 
-A [C implementation](https://github.com/Zer0Hiro/EquationParser) of the **Shunting-Yard algorithm** with RPN evaluation, variable support, and expression visualization. Extended with ascii visualiser.
+A [C implementation](https://github.com/Zer0Hiro/EquationParser) of the **Shunting-Yard algorithm** with RPN evaluation, variable support, and ASCII visualization.
 
 ---
 
