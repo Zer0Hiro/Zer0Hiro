@@ -20,7 +20,7 @@ A full **DSL ecosystem** built from scratch:
 | [**JAM DSL Compiler**](https://github.com/Zer0Hiro/JAM-DSL-Compiler) | Parses `.jam` notation → compiles to C++ for ESP32/Arduino, or exports WAV |
 | [**JAM Web Edition**](https://github.com/Zer0Hiro/JAM-web-edition) | Browser IDE with syntax highlighting, live playback, ESP32 flashing, and an AI tutor |
 
-Features: chord notation, multi-instrument PATTERN grids, Mozzi 2.0 synthesis, bilingual lessons (EN/HE), RAG-powered chat assistant.
+Features: chord notation, multi-instrument PATTERN grids, Mozzi 2.0 synthesis, bilingual lessons (EN/HE).
 
 ---
 
