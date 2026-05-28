@@ -34,16 +34,14 @@ A [C implementation](https://github.com/Zer0Hiro/EquationParser) of the **Shunti
 
 ```c
 const char* strong[] = { "C", "C++", "Python"};
-
-const char* learning[] = { "Embedded C", , "ESP32", "Arduino", "PlatformIO", "Flask", "JavaScript", "React", "Vite" };
-
-const char* concepts[] = { "Compiler Design", "DSL Architecture", "RAG / AI Pipelines", "Signal Processing"};
 ```
+
 <p>
   <a href="https://github.com/TroyMitchell911">
     <img height="180em"src="https://github-readme-stats-one-lemon-69.vercel.app/api/top-langs/?username=zer0hiro&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&theme=transparent" />
   </a>
 </p>
+
 ---
 
 ## `> cat current_status.txt`
