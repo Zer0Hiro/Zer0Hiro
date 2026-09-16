@@ -44,15 +44,6 @@ const char* strong[] = { "C", "C++", "Python"};
 
 ---
 
-## `> cat current_status.txt`
-
-```
-[●] Student — actively learning & building
-[●] Working on: expanding the JAM ecosystem
-[○] Open to: collaborations, feedback, interesting problems
-```
-
----
 
 <div align="center">
 
